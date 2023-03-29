@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yxxgsxxl&show_icons=true&locale=en" alt="yxxgsxxl" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yxxgsxxl&label=Profile%20views&color=009b77&style=flat" alt="yxxgsxxl" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxxgsxxl&" alt="yxxgsxxl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxxgsxxl&" alt="yxxgsxxl" /> <p align="right"> <img src="https://komarev.com/ghpvc/?username=yxxgsxxl&label=Profile%20views&color=009b77&style=flat" alt="yxxgsxxl" /> </p> </p>
 
