@@ -1,7 +1,6 @@
-<h1 align="center">Hi, My name is Alex</h1>
+<h1 align="center">Hi, My name is Alex</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=yxxgsxxl&label=Profile%20views&color=009b77&style=flat" alt="yxxgsxxl" /> </p>
 <h3 align="center">A passionate full-stack dev 👩‍💻</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yxxgsxxl&label=Profile%20views&color=009b77&style=flat" alt="yxxgsxxl" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
