@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Alex</h1> 
 <h3 align="center">A learning full-stack dev 👩‍💻</h3>
 
-<h3 align="center">Latest project: Repairing a Scuf Gaming controller</h3>
+<h3 align="center">Latest project: Repairing a Scuf Gaming controller 🔧🎮</h3>
 <h4 align="center">Currently learning micro-soldering...</h4>
 
 <h3 align="left">Languages and Tools:</h3>
