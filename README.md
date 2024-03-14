@@ -2,7 +2,7 @@
 <h3 align="center">A learning full-stack dev 👩‍💻</h3>
 
 <h3 align="center">Latest IRL project: Repairing the sticks of a Scuf Gaming controller 🔧🎮</h3>
-<h4 align="center">Currently Developping My New Portfolio ...</h4>
+<h4 align="center">Currently Learning TailwindCSS ...</h4>
 
 ## Frameworks
 
