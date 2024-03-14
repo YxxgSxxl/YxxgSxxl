@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Alex</h1> 
-<h3 align="center">A learning full-stack dev 👩‍💻</h3>
+<h3 align="center">A junior full-stack dev 👩‍💻</h3>
 
-<h3 align="center">Latest IRL project: Repairing the sticks of a Scuf Gaming controller 🔧🎮</h3>
+<h3 align="center">Latest IRL project: Making a webserver from scratch using ESP8266 module</h3>
 <h4 align="center">Currently Learning TailwindCSS basics ...</h4>
 
 ## Frameworks
