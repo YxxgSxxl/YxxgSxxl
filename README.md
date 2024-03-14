@@ -4,6 +4,8 @@
 <h3 align="center">Latest IRL project: Repairing the sticks of a Scuf Gaming controller 🔧🎮</h3>
 <h4 align="center">Currently Developping My New Portfolio ...</h4>
 
+# Frameworks:
+## Frameworks:
 ### Frameworks:
 
 <h3 align="left">Languages and Tools:</h3>
