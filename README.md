@@ -2,7 +2,7 @@
 <h3 align="center">A junior full-stack dev 👩‍💻</h3>
 
 <h3 align="center">Latest IRL project: Making a webserver from scratch using ESP8266 module</h3>
-<h4 align="center">Currently Working for school projects ...</h4>
+<h4 align="center">Currently Working for school projects (SAE)...</h4>
 
 ## Frameworks
 <p align="left"> <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> </a> </p>
