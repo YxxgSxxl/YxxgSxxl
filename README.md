@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Alex</h1> 
 <h3 align="center">A junior full-stack dev 👩‍💻</h3>
 
-<h3 align="center">Latest IRL project: Cooking lol/h3>
+<h3 align="center">Latest IRL project: Cooking lol </h3>
 <h4 align="center">Currently Learning Symfony 7...</h4>
 
 ## Frameworks
