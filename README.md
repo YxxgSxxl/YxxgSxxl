@@ -2,7 +2,7 @@
 <h3 align="center">A junior full-stack dev 👩‍💻</h3>
 
 <h3 align="center">Latest IRL project: Cooking lol </h3>
-<h4 align="center">Currently Learning Symfony 7...</h4>
+<h4 align="center">Currently REST...</h4>
 
 ## Frameworks
 <p align="left"> <a href="https://symfony.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" title="Symfony7" alt="Symfony7" width="40" height="40"/> </a> <a href="https://vuejs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue3JS" alt="Vue3JS" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> </a> </p>
