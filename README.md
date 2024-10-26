@@ -24,5 +24,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxxgsxxl&" alt="yxxgsxxl" /> <p align="right"> <img src="https://komarev.com/ghpvc/?username=yxxgsxxl&label=Profile%20views&color=009b77&style=flat" alt="yxxgsxxl" /> </p></p>
-
-<img src="https://avatars.githubusercontent.com/u/114391274?v=4" alt="avatar" width="20px" height="50px" />
