@@ -2,7 +2,7 @@
 <h3 align="center">A junior full-stack dev 👩‍💻</h3>
 
 <h3 align="center">Latest IRL project: Being Batman </h3>
-<h4 align="center">Currently Learning Docker...</h4>
+<h4 align="center">Currently Learning AdonisJS</h4>
 
 ## Frameworks
 <p align="left"> <a href="https://symfony.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" title="Symfony7" alt="Symfony7" width="40" height="40"/> </a> <a href="https://adonisjs.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/adonisjs/adonisjs-original.svg" title="AdonisJS" alt="AdonisJS" width="40" height="40"/> </a> <a href="https://vuejs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue3JS" alt="Vue3JS" width="40" height="40"/> </a> <a href="https://fr.react.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/> </a> </p>
